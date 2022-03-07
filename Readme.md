@@ -1,8 +1,8 @@
-##Task
+# Task
 Assume that a bank maintains two kinds of accounts for customers,
 One called as savings account and the other as current account. The
 savings account provides compound interest and withdrawal facilities
-but no cheque book facility. The current account provides cheque
+but no cheque book facility. The current account provides a cheque
 book facility but no interest. Both account holders should also main-
 tain a minimum balance and if the balance falls below this level, a
 service charge is imposed.
@@ -11,13 +11,13 @@ From this derive the classes Curr_Account, and Sav_Account to
 make them more specific to their requirements. Include the necessary
 Data members and member functions . Some of the class members
 may include:
-###Data members
+### Data members
   • Name of the depositor
   • Account number
   • Type of account
   • Balance amount in the account.
   • etc
-###Member functions such as :
+### Member functions such as :
   • To assign initial values
   • Accept deposit from a customer and update the balance
   • To withdraw an amount after checking the balance
@@ -27,6 +27,6 @@ may include:
   • Check for the minimum balance, impose penalty, necessary, and
   update the balance
   • etc
-###Note
+## Note
 The programme should be able to handle at least 100 customers.
 Include constructors/destructors in your program where required.
