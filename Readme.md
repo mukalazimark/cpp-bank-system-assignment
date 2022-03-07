@@ -30,3 +30,6 @@ may include:
 ## Note
 The programme should be able to handle at least 100 customers.
 Include constructors/destructors in your program where required.
+
+## Class Diagram
+![class diagram](https://github.com/leenswitts/cpp-bank-system-assignment/blob/patch-1/class%20diagram.jpg)
