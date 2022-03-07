@@ -12,19 +12,19 @@ make them more specific to their requirements. Include the necessary
 Data members and member functions . Some of the class members
 may include:
 ### Data members
-  • Name of the depositor
-  • Account number
-  • Type of account
-  • Balance amount in the account.
+  - Name of the depositor
+  - Account number
+  - Type of account
+  - Balance amount in the account.
   • etc
 ### Member functions such as :
-  • To assign initial values
-  • Accept deposit from a customer and update the balance
-  • To withdraw an amount after checking the balance
-  • To display the name and balance
-  • Compute and deposit interest
-  • Permit withdrawal and update the balance
-  • Check for the minimum balance, impose penalty, necessary, and
+  - To assign initial values
+  - Accept deposit from a customer and update the balance
+  - To withdraw an amount after checking the balance
+  - To display the name and balance
+  - Compute and deposit interest
+  - Permit withdrawal and update the balance
+  - Check for the minimum balance, impose penalty, necessary, and
   update the balance
   • etc
 ## Note
